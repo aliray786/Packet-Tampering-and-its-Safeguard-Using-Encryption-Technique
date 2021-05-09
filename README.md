@@ -2,7 +2,7 @@
 # Under Supervision of Abhishek Vaish Sir
 # Other Group Member
 # Md Mustafa Ansari
-# Vikash Sahni
+# Vikas Sahani
 # Abstarct:
 In today’s time due to the recent innovations on the internet and the network applications and the widespread of internet and networks, 
 it is now completely possible to conduct electronic commerce on the internet or through the local area networks, and the widespread computer and 

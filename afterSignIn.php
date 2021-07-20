@@ -109,10 +109,10 @@ session_start();
       console.log("Decrypted value:");
       console.log(decrypted.toString(CryptoJS.enc.Utf8));
       document.getElementById("itmCost").setAttribute("value", obj.value);
-//      document.getElementById("hash").setAttribute("value", forge_sha256(obj.value));
+     document.getElementById("hash").setAttribute("value", forge_sha256(obj.value));
       
       console.log("Hashed value:");
-      console.log(forge_sha256(obj.value));
+     console.log(forge_sha256(obj.value));
       
     }
   </script>

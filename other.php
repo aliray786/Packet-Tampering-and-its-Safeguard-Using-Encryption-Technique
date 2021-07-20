@@ -138,7 +138,7 @@ session_start();
       console.log(ah);
       
       if(h != ah){       
-//        setTimeout(function(){ alert("You are under ATTACK!"); }, 3000);
+      setTimeout(function(){ alert("You are under ATTACK!"); }, 3000);
        window.alert("You are under ATTACK!");
        window.location.href = "logout.php";
         
@@ -155,6 +155,7 @@ session_start();
       echo "<script>console.log('".$checkHash."'); console.log('".$cost."');</script>";
     }
 -->
+
   ?>
  
 

@@ -129,7 +129,7 @@ session_start();
       <ul class="navbar-nav mr-5">
 
         <li class="nav-item mr-5">
-          <a class="nav-link" href="afterSignIn.php"><span class="h2">E - Commerce Demo</span></a>
+          <a class="nav-link" href="afterSignIn.php"><span class="h2">VIMUSA</span></a>
         </li>
         <li class="nav-item">
           <span class="navbar-text mx-5 mt-3"><?php echo $_SESSION["userEmail"];?></span>

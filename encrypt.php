@@ -12,7 +12,7 @@ session_start();
      </style>
      
      
-     <title>E-Commerce Demo - home</title>  
+     <title>VIMUSA - home</title>  
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -28,7 +28,7 @@ session_start();
       <ul class="navbar-nav mr-5">
 
         <li class="nav-item mr-5">
-          <a class="nav-link" href="afterSignIn.php"><span class="h2">E - Commerce Demo</span></a>
+          <a class="nav-link" href="afterSignIn.php"><span class="h2">VIMUSA</span></a>
         </li>
         <li class="nav-item">
           <span class="navbar-text mx-5 mt-3"><?php echo $_SESSION["userEmail"];?></span>

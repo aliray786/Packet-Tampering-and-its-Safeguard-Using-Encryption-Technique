@@ -1,6 +1,6 @@
 <html>
 <head>
-     <title>E-Commerce Demo - signUp</title>  
+     <title>VIMUSA - signUp</title>  
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -13,11 +13,11 @@
       <!-- Links -->
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link mx-5" href="home.php">Sign Up</a>
+            <a class="nav-link mx-5" href="home.php">New User</a>
           </li>
-          <li class="nav-item h2">E - Commerce Demo</li>
+          <li class="nav-item h2">VIMUSA</li>
           <li class="nav-item">
-            <a class="nav-link mx-5" href="login.php">Log In</a>
+            <a class="nav-link mx-5" href="login.php">Sign In</a>
           </li>
         </ul>
 
